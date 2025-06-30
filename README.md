@@ -1,6 +1,6 @@
 # IPMI Docker Container for Home Assistant
 
-![Docker Image Version (latest by date)](https://img.shields.io/docker/v/mneveroff/ipmi-server) ![Docker Pulls](https://img.shields.io/docker/pulls/mneveroff/ipmi-server) ![GitHub last commit](https://img.shields.io/github/last-commit/mneveroff/ipmi-server) ![GitHub issues](https://img.shields.io/github/issues/mneveroff/ipmi-server) ![GitHub](https://img.shields.io/github/license/mneveroff/ipmi-server)
+![Docker Image Version (latest by date)](https://img.shields.io/docker/v/tcousin/ipmi-server) ![Docker Pulls](https://img.shields.io/docker/pulls/tcousin/ipmi-server) ![GitHub last commit](https://img.shields.io/github/last-commit/tcousin/ipmi-server) ![GitHub issues](https://img.shields.io/github/issues/tcousin/ipmi-server) ![GitHub](https://img.shields.io/github/license/tcousin/ipmi-server)
 
 ## Details of the container
 
