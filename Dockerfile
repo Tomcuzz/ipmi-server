@@ -25,7 +25,7 @@ RUN apk -U add --no-cache \
 RUN apk -U add --no-cache \
     nginx
 
-ENV PHPVERS="81"
+ENV PHPVERS ""
 RUN apk -U add --no-cache \
     php$PHPVERS \
     php$PHPVERS-fpm \
