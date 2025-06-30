@@ -23,7 +23,7 @@ RUN apk -U upgrade
 RUN apk -U add --no-cache \
     ipmitool
 RUN apk -U add --no-cache \
-    nginx 1.24.0-r7
+    nginx
 
 ENV PHPVERS="81"
 RUN apk -U add --no-cache \
