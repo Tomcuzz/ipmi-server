@@ -9,7 +9,7 @@ ENV S6_CMD_WAIT_FOR_SERVICES=1 \
 
 ENV LANG C.UTF-8
 
-ENV APP_DIR="/app"
+ENV APP_DIR "/app"
 
 # Set shell
 SHELL ["/bin/bash", "-o", "pipefail", "-c"]
