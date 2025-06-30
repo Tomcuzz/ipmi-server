@@ -58,6 +58,8 @@ To integrate it with HomeAssistant you can use [home-assistant-ipmi](https://git
 
 ### How to build it yourself
 
+It is set up to automatically build and pus the image on a periodic basis.
+
 If you want to build this container yourself feel free to use the snippet below, replace the -tag definitions as you please. For buildx reference look [here](https://www.docker.com/blog/multi-arch-build-and-images-the-simple-way/).
 
 ```bash
